@@ -12,11 +12,12 @@ I’m interested in web development and more specifically in back-end web develo
 
 ### Languages 
 
+<p>
 <img src="https://cdn-icons-png.flaticon.com/512/226/226269.png" width="40">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40">
 <img src="https://cdn-icons-png.flaticon.com/512/528/528261.png" width="40">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" width="45"> 
-
+</p>
 <p></p>
 
 ### Database servers
@@ -27,31 +28,34 @@ I’m interested in web development and more specifically in back-end web develo
 
 ### CSS Frameworks
 
+<p>
 <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="60"> 
-
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="45">
-
+</p>
 <p></p>
 
 
 ### Back-end Frameworks
 
+<p>
 <img src="https://symfony.com/logos/symfony_white_02.png" width="100">
 <img src="https://cdn.worldvectorlogo.com/logos/lumen-1.svg" width="30">
-
+</p>
 <p></p>
 
 ### Deployment 
 
+<p>
 <img src="https://cdn.worldvectorlogo.com/logos/heroku-1.svg" width="100">
-
 <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-logo.svg" width="55">
+</p>
 
 <p></p>
 
 ### Environments
+<p>
 <img src="https://cdn-icons-png.flaticon.com/512/226/226772.png" width="80">
-
+</p>
 <p></p>
 
 ## 📫 How to contact me
