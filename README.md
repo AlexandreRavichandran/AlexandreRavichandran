@@ -6,7 +6,7 @@ I’m interested in web development and more specifically in back-end web develo
  
 
 ## 📚 Learnings
- I'm specialized in back-end development, especially with Symfony Framework, but I am still curious about other back-end frameworks and event front-end frameworks
+ I'm specialized in back-end development, especially with Symfony Framework, but I am still curious about other back-end frameworks and even front-end frameworks
 
 ## 💻 Known Technologies
 
