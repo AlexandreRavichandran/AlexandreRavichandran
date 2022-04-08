@@ -39,6 +39,7 @@ I’m interested in web development and more specifically in back-end web develo
 <div style="display:flex;">
  <img src="https://iconape.com/wp-content/png_logo_vector/angular-icon-logo.png" width="40">
 </div>
+
 ### Back-end Frameworks
 <div style="display:flex;">
  <img src="https://iconape.com/wp-content/files/vu/371490/svg/371490.svg" width="40">
