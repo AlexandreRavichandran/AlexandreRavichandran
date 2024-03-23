@@ -1,72 +1,40 @@
 # 👋 Hi, I’m @AlexandreRavichandran
-I am a former quality engineer who decided to discover the development world. After being self-taught for 1 year, I decided to join a development school to get good practices of coding.
+Since 2020, I followed a self-learning path, starting with exploring the world of PHP development before drifting in the one of Java.
 
-## 👀 Interests
-I’m interested in web development and more specifically in back-end web development, and I'm very curious about cybersecurity
- 
-
-## 📚 Learnings
- I'm specialized in back-end development, especially with Symfony Framework, but I am still curious about other back-end frameworks and event front-end frameworks
+I'm working on fullstack apps especially with Spring boot/Angular apps. If you don't see any activity on this github, it's because i'm learning new things !
 
 ## 💻 Known Technologies
 
 ### Languages 
 
-<div style="display:flex;">
- <img src="https://cdn-icons-png.flaticon.com/512/226/226269.png" width="40">
- <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40">
- <img src="https://cdn-icons-png.flaticon.com/512/528/528261.png" width="40">
- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="45">
- <img src="https://iconape.com/wp-content/files/zy/371206/svg/371206.svg" width="45"> 
-</div>
-<p></p>
+<img src="https://img.shields.io/badge/JAVA-red?style=for-the-badge&logoColor=white&labelColor=orange&color=red">
+<img src="https://img.shields.io/badge/TYPESCRIPT-blue?style=for-the-badge&logo=typescript&logoColor=white&labelColor=blue&color=blue">
 
 ### Database servers
-<div style="display:flex;">
- <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="45"> 
-</div>
-<p></p>
 
-### CSS Frameworks
-<div style="display:flex;">
- <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="60"> 
- <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="45">
-</div>
-<p></p>
-
+<img src="https://img.shields.io/badge/MYSQL-orange?style=for-the-badge&logo=mysql&logoColor=white&labelColor=orange&color=orange">
+<img src="https://img.shields.io/badge/POSTGRES-blue?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=blue&color=blue">
 
 ### Front-end Frameworks
-<div style="display:flex;">
- <img src="https://iconape.com/wp-content/png_logo_vector/angular-icon-logo.png" width="40">
-</div>
+
+<img src="https://img.shields.io/badge/ANGULAR-red?style=for-the-badge&logo=angular&logoColor=white&labelColor=red&color=red">
 
 ### Back-end Frameworks
-<div style="display:flex;">
- <img src="https://iconape.com/wp-content/files/vu/371490/svg/371490.svg" width="40">
- <img src="https://symfony.com/logos/symfony_white_02.png" width="90">
-</div>
-<p></p>
+<img src="https://img.shields.io/badge/SPRING%20BOOT-green?style=for-the-badge&logo=spring&logoColor=white&labelColor=green&color=green">
 
 ### Deployment 
-<div style="display:flex;">
- <img src="https://iconape.com/wp-content/files/ud/371525/svg/371525.svg" width="30">
- <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-logo.svg" width="55">
- <img src="https://cdn.worldvectorlogo.com/logos/heroku-1.svg" width="100">
-</div>
- <p></p>
+
+<img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonec2&logoColor=white&labelColor=orange&color=orange">
+<img src="https://img.shields.io/badge/JENKINS-orange?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=orange&color=orange">
 
 ### Third party softwares
-<div style="display:flex;">
- <img src="https://iconape.com/wp-content/files/jg/371367/svg/371367.svg" width="20">
-</div>
+<img src="https://img.shields.io/badge/RABBITMQ-orange?style=for-the-badge&logoColor=white&labelColor=orange&color=orange">
 
 ### Environments
-<div style="display:flex;">
- <img src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" width="50">
- <img src="https://cdn-icons-png.flaticon.com/512/226/226772.png" width="50">
- <img src="https://iconape.com/wp-content/files/fr/370801/svg/docker-icon-logo-icon-png-svg.png" width="50">
-</div>
- <p></p>
+
+<img src="https://img.shields.io/badge/GIT-orange?style=for-the-badge&logo=git&logoColor=white&labelColor=orange&color=orange">
+<img src="https://img.shields.io/badge/LINUX-grey?style=for-the-badge&logo=linux&logoColor=white&labelColor=grey&color=grey">
+<img src="https://img.shields.io/badge/DOCKER-blue?style=for-the-badge&logo=docker&logoColor=white&labelColor=blue&color=blue">
 
 ## 📫 How to contact me
 
