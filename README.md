@@ -7,13 +7,11 @@ I'm working on fullstack apps especially with Spring boot/Angular apps. If you d
 
 ### Languages 
 
-<img src="https://img.shields.io/badge/JAVA-red?style=for-the-badge&logoColor=white&labelColor=orange&color=red">
-<img src="https://img.shields.io/badge/TYPESCRIPT-blue?style=for-the-badge&logo=typescript&logoColor=white&labelColor=blue&color=blue">
+<img src="https://img.shields.io/badge/JAVA-red?style=for-the-badge&logoColor=white&labelColor=orange&color=red"> <img src="https://img.shields.io/badge/TYPESCRIPT-blue?style=for-the-badge&logo=typescript&logoColor=white&labelColor=blue&color=blue">
 
 ### Database servers
 
-<img src="https://img.shields.io/badge/MYSQL-orange?style=for-the-badge&logo=mysql&logoColor=white&labelColor=orange&color=orange">
-<img src="https://img.shields.io/badge/POSTGRES-blue?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=blue&color=blue">
+<img src="https://img.shields.io/badge/MYSQL-orange?style=for-the-badge&logo=mysql&logoColor=white&labelColor=orange&color=orange"> <img src="https://img.shields.io/badge/POSTGRES-blue?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=blue&color=blue">
 
 ### Front-end Frameworks
 
@@ -24,17 +22,14 @@ I'm working on fullstack apps especially with Spring boot/Angular apps. If you d
 
 ### Deployment 
 
-<img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonec2&logoColor=white&labelColor=orange&color=orange">
-<img src="https://img.shields.io/badge/JENKINS-orange?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=orange&color=orange">
+<img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonec2&logoColor=white&labelColor=orange&color=orange"> <img src="https://img.shields.io/badge/JENKINS-orange?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=orange&color=orange">
 
 ### Third party softwares
 <img src="https://img.shields.io/badge/RABBITMQ-orange?style=for-the-badge&logoColor=white&labelColor=orange&color=orange">
 
 ### Environments
 
-<img src="https://img.shields.io/badge/GIT-orange?style=for-the-badge&logo=git&logoColor=white&labelColor=orange&color=orange">
-<img src="https://img.shields.io/badge/LINUX-grey?style=for-the-badge&logo=linux&logoColor=white&labelColor=grey&color=grey">
-<img src="https://img.shields.io/badge/DOCKER-blue?style=for-the-badge&logo=docker&logoColor=white&labelColor=blue&color=blue">
+<img src="https://img.shields.io/badge/GIT-orange?style=for-the-badge&logo=git&logoColor=white&labelColor=orange&color=orange"> <img src="https://img.shields.io/badge/LINUX-grey?style=for-the-badge&logo=linux&logoColor=white&labelColor=grey&color=grey"> <img src="https://img.shields.io/badge/DOCKER-blue?style=for-the-badge&logo=docker&logoColor=white&labelColor=blue&color=blue">
 
 ## 📫 How to contact me
 
